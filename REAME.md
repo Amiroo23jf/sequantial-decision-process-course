@@ -1,0 +1,2 @@
+# Sequential Decision Process - Model Free Control Homework
+This repository includes the full codes of the lab on Sequential Decision Process, including q-learning and deep q-learning. The problem statements are explained in the pdf documents.
